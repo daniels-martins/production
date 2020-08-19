@@ -37,7 +37,6 @@ custom/*
 /platform/
 /repos/
 
-.env
 
 .cache/
 
@@ -49,3 +48,5 @@ custom/*
 !/var/queue/.gitkeep
 !/var/test/.gitkeep
 !/var/plugins.json
+config.bat
+node_modules
